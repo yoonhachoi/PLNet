@@ -1,0 +1,14 @@
+Package: PLNet
+Title: A Poisson Log-Normal model for constructing a gene Network
+Version: 1.0.0
+Authors@R: c(person("Yoonha", "Choi", email = "yoonha.choi@gmail.com", role = c("aut", "cre")),
+          person("Marc", "Coram", email = "marc.coram@gmail.com", role = c("aut")),
+          person("Jie", "Peng", email = "jiepeng@ucdavis.edu", role = c("aut")),
+          person("Hua", "Tang", email = "huatang@stanford.edu", role = c("aut")))
+Description: This package fits a poisson log-normal model of Choi et al. (2017) 
+          for constructing a gene co-variation network using RNA-seq data.
+Depends: R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
